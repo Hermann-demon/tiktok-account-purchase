@@ -8,6 +8,9 @@
 
 **核心关键词：TikTok 账号购买**
 
+![TikTok 账号购买避坑封面配图（原创示意）](./images/tiktok/gen-cover.png)
+
+
 如果你最近在折腾 TikTok，很可能卡在验证码、异常提示或起量难——于是「直接买一个成品号」会变成很有诱惑的选项。先把纪律讲在前面：
 
 **TikTok 禁止账号买卖。** 本文是对第三方市场公开信息的结构整理，便于理解白号、满年号、千粉号之间的差异；不构成购买怂恿。若你自行承担风险浏览市场，请同时阅读平台规则与适用法律。
@@ -17,6 +20,8 @@
 ![HUOAD TikTok 账号分类示意：白号、老号与粉丝号行情对照](./images/tiktok/category-tiktok.png)
 
 
+![TikTok 账号类型对照：白号 / 满年老号 / 粉丝号 / 千粉直播号（原创示意）](./images/tiktok/gen-types-compare.png)
+
 ## 直接结论
 
 - **预算紧、愿意养**：约 **$1–$1.50** 白号 / 满月档，先验证环境。
@@ -25,7 +30,7 @@
 - **要更高粉与挂链叙事**：自然流 1000–4000 粉约 **$15**，先一单验证再放量。
 - **任何一档**：默认可能掉粉、环境封禁、售后窗口短；平台禁令优先于行情表。
 
-入口：[TikTok 账号分类](https://www.huoad.com/zh/category/tiktok-account) · [美国千粉多规格](https://www.huoad.com/zh/product/buy-tiktok-accounts-1000-followers-us-live-ready)
+入口：[TikTok 账号分类](https://www.huoad.com/zh/category/tiktok-account?from=github) · [美国千粉多规格](https://www.huoad.com/zh/product/buy-tiktok-accounts-1000-followers-us-live-ready?from=github)
 
 ## 问答速览
 
@@ -66,23 +71,23 @@
 ![TikTok 白号 / 本土满年老白号商品配图示意（价格以官网为准）](./images/tiktok/white-or-native.jpg)
 
 
-分类页：[https://www.huoad.com/zh/category/tiktok-account](https://www.huoad.com/zh/category/tiktok-account)
+分类页：[https://www.huoad.com/zh/category/tiktok-account?from=github](https://www.huoad.com/zh/category/tiktok-account?from=github)
 
 | 套餐名称 | 核心配置 | 价格（USD） | 适用场景 | 购买链接 |
 | --- | --- | --- | --- | --- |
-| 2024 年老号耐用款 | 随机地区粉丝、含 Outlook | $1.50 | 低成本试水 | [立即购买](https://www.huoad.com/zh/product/tiktok-2024-old-random-outlook-email-durable) |
-| 美国真机满月高权重白号 | 可换绑改密、多设备登录向 | $1.50 | 美区养号起步 | [立即购买](https://www.huoad.com/zh/product/tiktok-us-real-device-month-high-weight-white-any-device) |
-| 日本 IP 满月白号 | 微软邮箱验证 | $1.00 | 日区白号 | [立即购买](https://www.huoad.com/zh/product/tk-japan-ip-mature-white-email-verified) |
-| 新加坡本土满年老白号 | 随机作品点赞、可换绑 | $2.00 | 新区本土权重 | [立即购买](https://www.huoad.com/zh/product/tiktok-singapore-native-year-aged-white-any-device-rebind) |
-| 台湾本土满年老白号 | 随机作品点赞 | $2.00 | 台区运营 | [立即购买](https://www.huoad.com/zh/product/tiktok-taiwan-native-year-aged-white-any-device) |
-| 日本本土满年老白号 | 随机作品点赞、可换绑 | $2.00 | 日区运营 | [立即购买](https://www.huoad.com/zh/product/tiktok-japan-native-year-aged-white-any-device-rebind) |
-| 美国本土满年高权重老白号 | 随机作品点赞粉丝 | $3.50 | 美区更稳白号向 | [立即购买](https://www.huoad.com/zh/product/tiktok-us-native-year-high-authority-aged-white-random) |
-| 随机地区 50+ 粉丝 | Outlook、已添加头像 | $3.50 | 轻微有粉外观 | [立即购买](https://www.huoad.com/zh/product/tiktok-random-region-50-followers-outlook-email) |
-| 美国千粉｜30 天以上 | 微软邮箱、1000+ | $6.88 | 基础千粉 | [立即购买](https://www.huoad.com/zh/product/buy-tiktok-accounts-1000-followers-us-live-ready) |
-| 美国千粉｜1 年以上 | 微软邮箱、1000+ | $8.88 | 长账龄千粉 | [立即购买](https://www.huoad.com/zh/product/buy-tiktok-accounts-1000-followers-us-live-ready) |
-| 美国千粉｜30 天+ 带直播 | 直播权限规格 | $12.00 | 要较快开播 | [立即购买](https://www.huoad.com/zh/product/buy-tiktok-accounts-1000-followers-us-live-ready) |
-| 美国千粉｜1 年+ 带直播 | 直播权限规格 | $16.00 | 长账龄+直播 | [立即购买](https://www.huoad.com/zh/product/buy-tiktok-accounts-1000-followers-us-live-ready) |
-| 美国自然流 1000–4000 粉 | 可挂链接、开播向文案 | $15.00 | 更高粉段 | [立即购买](https://www.huoad.com/zh/product/tiktok-us-ip-organic-1000-4000-followers-videos-live) |
+| 2024 年老号耐用款 | 随机地区粉丝、含 Outlook | $1.50 | 低成本试水 | [立即购买](https://www.huoad.com/zh/product/tiktok-2024-old-random-outlook-email-durable?from=github) |
+| 美国真机满月高权重白号 | 可换绑改密、多设备登录向 | $1.50 | 美区养号起步 | [立即购买](https://www.huoad.com/zh/product/tiktok-us-real-device-month-high-weight-white-any-device?from=github) |
+| 日本 IP 满月白号 | 微软邮箱验证 | $1.00 | 日区白号 | [立即购买](https://www.huoad.com/zh/product/tk-japan-ip-mature-white-email-verified?from=github) |
+| 新加坡本土满年老白号 | 随机作品点赞、可换绑 | $2.00 | 新区本土权重 | [立即购买](https://www.huoad.com/zh/product/tiktok-singapore-native-year-aged-white-any-device-rebind?from=github) |
+| 台湾本土满年老白号 | 随机作品点赞 | $2.00 | 台区运营 | [立即购买](https://www.huoad.com/zh/product/tiktok-taiwan-native-year-aged-white-any-device?from=github) |
+| 日本本土满年老白号 | 随机作品点赞、可换绑 | $2.00 | 日区运营 | [立即购买](https://www.huoad.com/zh/product/tiktok-japan-native-year-aged-white-any-device-rebind?from=github) |
+| 美国本土满年高权重老白号 | 随机作品点赞粉丝 | $3.50 | 美区更稳白号向 | [立即购买](https://www.huoad.com/zh/product/tiktok-us-native-year-high-authority-aged-white-random?from=github) |
+| 随机地区 50+ 粉丝 | Outlook、已添加头像 | $3.50 | 轻微有粉外观 | [立即购买](https://www.huoad.com/zh/product/tiktok-random-region-50-followers-outlook-email?from=github) |
+| 美国千粉｜30 天以上 | 微软邮箱、1000+ | $6.88 | 基础千粉 | [立即购买](https://www.huoad.com/zh/product/buy-tiktok-accounts-1000-followers-us-live-ready?from=github) |
+| 美国千粉｜1 年以上 | 微软邮箱、1000+ | $8.88 | 长账龄千粉 | [立即购买](https://www.huoad.com/zh/product/buy-tiktok-accounts-1000-followers-us-live-ready?from=github) |
+| 美国千粉｜30 天+ 带直播 | 直播权限规格 | $12.00 | 要较快开播 | [立即购买](https://www.huoad.com/zh/product/buy-tiktok-accounts-1000-followers-us-live-ready?from=github) |
+| 美国千粉｜1 年+ 带直播 | 直播权限规格 | $16.00 | 长账龄+直播 | [立即购买](https://www.huoad.com/zh/product/buy-tiktok-accounts-1000-followers-us-live-ready?from=github) |
+| 美国自然流 1000–4000 粉 | 可挂链接、开播向文案 | $15.00 | 更高粉段 | [立即购买](https://www.huoad.com/zh/product/tiktok-us-ip-organic-1000-4000-followers-videos-live?from=github) |
 
 **如何解读这张表：** 先用低价白号验证环境，再按地区选满年号，最后才进入千粉/直播/自然流。根据 HUOAD 公开标价，日本 IP 满月白号为 $1.00，美国满月白号与 2024 耐用款为 $1.50，新/台/日满年老白号为 $2.00，美国满年老白号与 50+ 粉为 $3.50，美国千粉四规格为 $6.88 / $8.88 / $12.00 / $16.00，自然流 1000–4000 粉为 $15.00（来源：huoad.com 商品页）。同店还有多国家「1000+ 粉丝 / 直播向」商品，常见从 $6.88 起。**价格与库存以官网实时信息为准（本文整理基于公开商品页）**。
 
@@ -115,7 +120,7 @@
 
 1. 用 $1–$1.50 档验证整套环境（SIM、全局代理、语言、目标国 IP）。
 2. 确认内容方向与地区后，再考虑满年本土老白号或 50+ 粉丝号，观察换绑与邮箱可用性。
-3. 仅当能稳定发布与基础互动，才进入 [美国千粉多规格](https://www.huoad.com/zh/product/buy-tiktok-accounts-1000-followers-us-live-ready) 或自然流——仍建议先一单。
+3. 仅当能稳定发布与基础互动，才进入 [美国千粉多规格](https://www.huoad.com/zh/product/buy-tiktok-accounts-1000-followers-us-live-ready?from=github) 或自然流——仍建议先一单。
 
 内容过渡：先观察原有内容与粉丝互动，再逐步加入自己的选题；一刀切删除/改名/改头像等于主动制造异常指纹。
 
@@ -165,8 +170,8 @@
 
 把「TikTok 账号购买」当成用钱换时间可以，但请记住平台禁令与售后边界。HUOAD 分类页适合用来理解公开行情与规格差异；是否下单，请你自己负责。
 
-👉 [https://www.huoad.com/zh/category/tiktok-account](https://www.huoad.com/zh/category/tiktok-account)  
-👉 美国千粉多规格：[https://www.huoad.com/zh/product/buy-tiktok-accounts-1000-followers-us-live-ready](https://www.huoad.com/zh/product/buy-tiktok-accounts-1000-followers-us-live-ready)  
-👉 美国满月白号试水：[https://www.huoad.com/zh/product/tiktok-us-real-device-month-high-weight-white-any-device](https://www.huoad.com/zh/product/tiktok-us-real-device-month-high-weight-white-any-device)
+👉 [https://www.huoad.com/zh/category/tiktok-account?from=github](https://www.huoad.com/zh/category/tiktok-account?from=github)  
+👉 美国千粉多规格：[https://www.huoad.com/zh/product/buy-tiktok-accounts-1000-followers-us-live-ready?from=github](https://www.huoad.com/zh/product/buy-tiktok-accounts-1000-followers-us-live-ready?from=github)  
+👉 美国满月白号试水：[https://www.huoad.com/zh/product/tiktok-us-real-device-month-high-weight-white-any-device?from=github](https://www.huoad.com/zh/product/tiktok-us-real-device-month-high-weight-white-any-device?from=github)
 
 **免责声明：TikTok 禁止账号买卖。本文仅供信息参考，不构成交易建议。**
